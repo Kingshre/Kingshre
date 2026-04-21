@@ -1,4 +1,4 @@
-<img src="https://brand.berkeley.edu/wp-content/uploads/2016/10/campus_aerial_sproul.jpg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=003262,FDB515&height=150&section=header&text=UC%20Berkeley%20%F0%9F%90%BB&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <h1 align="center">Hey, I'm Shrey 👋</h1>
 <p align="center">De Anza College → UC Berkeley Data Science 🐻</p>
@@ -40,3 +40,5 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Kingshre&theme=github-dark-blue&hide_border=true"/>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=003262,FDB515&height=100&section=footer" width="100%"/>
