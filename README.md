@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+<img src="https://brand.berkeley.edu/wp-content/uploads/2016/10/campus_aerial_sproul.jpg" width="100%"/>
 
 <h1 align="center">Hey, I'm Shrey 👋</h1>
 <p align="center">De Anza College → UC Berkeley Data Science 🐻</p>
