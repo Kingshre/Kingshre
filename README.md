@@ -7,18 +7,23 @@
   </a>
 </p>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="280"/>
+
 ### About Me
 - 🎓 UC Berkeley, Data Science (College of Computing, Data Science & Society)
 - 📊 Focused on applied ML, quantitative modeling, and data pipelines
 - 🛠️ Full-stack engineering — from backend systems to interactive frontends
 - 👁️ Drawn to computer vision & imagery — object detection, tracking, and geospatial/satellite analysis
 <br clear="right"/>
+
 ---
+
 ### 🛠️ Languages & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,html,css,sass,js,mysql,git,github,py,cpp,django,flask" />
 </p>
+
 ---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kingshre&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
